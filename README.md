@@ -4,6 +4,7 @@ This project is a **machine learning web application** that predicts house price
 The application uses a **Random Forest Regressor** model trained on a cleaned dataset of real estate properties.  
 The web interface is built using **Flask**, allowing users to input various house features and get an estimated price.
 
+<img width="1107" height="599" alt="image" src="https://github.com/user-attachments/assets/06d4b957-1f50-4bbe-97a2-732419258a43" />
 ---
 
 ## ✨ Features
